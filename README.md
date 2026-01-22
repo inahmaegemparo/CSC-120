@@ -28,4 +28,4 @@ This project is hosted using GitHub Pages.
 
 ## Screenshot
 
-![Hello World Screenshot](screenshots.png)
+![Hello World Screensho](screenshot.png)
