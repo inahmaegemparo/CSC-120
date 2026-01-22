@@ -26,3 +26,6 @@ This project is hosted using GitHub Pages.
 - Display a "Hello World" message in the browser
 - Push the project to GitHub
 
+## Screenshot
+
+![Hello World Screenshot](Screenshot 2026-01-22 090517.png)
